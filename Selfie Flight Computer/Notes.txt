@@ -1,0 +1,11 @@
+Arduino libraries reference in the source may be installed through the IDE.
+
+PString.h
+https://www.arduino.cc/reference/en/libraries/pstring-arduino-lib/
+
+OneWire.h
+https://www.arduino.cc/reference/en/libraries/onewire/
+
+TinyGPS.h
+https://www.arduino.cc/reference/en/libraries/tinygps/
+

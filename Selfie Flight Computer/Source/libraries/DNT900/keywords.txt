@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map for DNT900
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DNT900	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin			KEYWORD2
+MessageStateMachine	KEYWORD2
+DNT900State		KEYWORD2
+DNT900LastCommand	KEYWORD2
+DNT900LastTxStatus	KEYWORD2
+DNT900LastTxRSSI	KEYWORD2
+DNT900ReadCTS		KEYWORD2
+SetMessageProcessor	KEYWORD2
+SetCmdDataProcessor	KEYWORD2
+SetReadDataProcessor	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
