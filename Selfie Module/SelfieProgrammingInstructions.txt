@@ -1,0 +1,14 @@
+Arduino IDE
+Select Arduino Pro or Pro Mini from the Tools > Board menu.
+Select Tools > Processor set to ATmega328 (3.3V, 8 MHz).
+
+Selfie Module
+1. Remove the Arduino board from the Selfie Module.
+2. Connect the programming cable to the Arduino board (black wire is at right when orienting the board with the resistors at top).
+3. Connect the red wire of the programming cable to the header where it is labeled "5" (three down from the top).  An wire with alligator clips may be required.
+4. The COM port may have to be specified.  The port closest to the VGA connector worked best.
+
+The image IMG_4083.jpg shows these connections.
+
+
+
