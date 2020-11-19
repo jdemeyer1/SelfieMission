@@ -6,7 +6,7 @@ This project contains schematics, bills of material, and source code used during
 The Payload Cut Down provides an alternative method of terminating the flight by separating the balloon from the payload.  This time-based cut down is based on an Arduino Pro Mini.
 
 ## Selfie Module
-The Selfie Module is the heart of the selfie sequence.  This module operated the arm (both extending and retrieving) through a motor controller, communicated with the selfie camera over wifi, use a Hall Effect sensor to stop arm movement, and communicated status updates with the Selfie Flight Computer.
+The Selfie Module is the heart of the selfie sequence.  This module operated the arm (both extending and retrieving) through a motor controller, communicated with the selfie camera over wifi, use a Hall Effect sensor to stop arm movement, and communicated status updates with the Selfie Flight Computer.<br/>
 <img src="MissionImages/SelfieModule.jpg" width="460" height="345">
 
 ## Selfie Flight Computer
