@@ -1,4 +1,4 @@
-# SelfieMission <div float:right;><img src="MissionImages/20190920 First Selfie.png" width="192" hieght="108"/></div>
+# SelfieMission <img src="MissionImages/20190920 First Selfie.png" width="192" hieght="108"/>
 
 This project contains schematics, bills of material, and source code used during the [Selfie Mission](https://surfingsatellites.org/2020/08/12/the-selfie-mission/).
 
