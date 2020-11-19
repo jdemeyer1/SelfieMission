@@ -7,7 +7,7 @@ The Payload Cut Down provides an alternative method of terminating the flight by
 
 ## Selfie Module
 The Selfie Module is the heart of the selfie sequence.  This module operated the arm (both extending and retrieving) through a motor controller, communicated with the selfie camera over wifi, use a Hall Effect sensor to stop arm movement, and communicated status updates with the Selfie Flight Computer.
-<img src="mission images/SelfieModule.jpg" width="460" height="345">
+<img src="missionimages/SelfieModule.jpg" width="460" height="345">
 
 ## Selfie Flight Computer
 The Selfie Flight Computer provided telemetry information through the radio, monitored battery levels, captured GPS information for telemetry, captured Selfie Module status information for telemetry, and monitored temperature.
