@@ -1,6 +1,6 @@
 # SelfieMission <img src="MissionImages/20190920 First Selfie.png" width="192" height="108"/>
 
-This project contains schematics, bills of material, and source code used during the [Selfie Mission](https://surfingsatellites.org/2020/08/12/the-selfie-mission/).
+This project contains schematics, bills of material, and source code used during the [Selfie Mission](https://surfingsatellites.org/2020/08/12/the-selfie-mission/){:target="_blank"}.
 
 ## Payload Cut Down
 The Payload Cut Down provides an alternative method of terminating the flight by separating the balloon from the payload.  This time-based cut down is based on an Arduino Pro Mini.
